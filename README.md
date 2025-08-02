@@ -1,3 +1,4 @@
+![logo](https://github.com/aditya30-2005-eng/aditya30-2005-eng/blob/main/Purple%20and%20Black%20Futuristic%20AI%20Technology%20Banner.png)
 # 💫 Hi 👋, I'm Aditya Kumar Singh  
 **A passionate Full Stack Developer || ASP.NET & C# Enthusiast || Future AI/ML/Data Science Engineer from India**
 
