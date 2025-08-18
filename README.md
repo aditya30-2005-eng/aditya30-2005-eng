@@ -32,7 +32,13 @@ Email Me 👉 ✉️ **aksingh302005@gmail.com** For Collaboration/Project or An
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aditya30-2005-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aditya30-2005-eng&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya30-2005-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🔥 Most Used Languages  
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya30-2005-eng&layout=compact&theme=tokyonight)  
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
