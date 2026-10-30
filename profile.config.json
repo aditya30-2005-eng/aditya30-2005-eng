@@ -1,0 +1,262 @@
+{
+  "username": "aditya30-2005-eng",
+  "commit_name": "Aditya Kumar Singh",
+  "latest_count": 4,
+  "exclude_tech": [
+    "TypeScript",
+    "C#",
+    "ASP.NET",
+    "Bootstrap",
+    "Firestore",
+    "Swagger",
+    "Cross-browser testing"
+  ],
+  "exclude_repos": [],
+  "repo_overrides": {
+    "supportdesk": {
+      "title": "SupportDesk",
+      "short": "Helpdesk ticketing with roles, async alerts and CI tests"
+    },
+    "Celebal_Technologies": {
+      "title": "Celebal Data Engineering",
+      "description": "Internship work: real-time credit card fraud risk scoring pipeline, Spark and data cleaning assignments."
+    },
+    "finance-dashboard": {
+      "title": "Finance Tracker",
+      "short": "Income and expense tracking with Firebase auth and live data sync"
+    },
+    "car-price-predictor": {
+      "short": "Used-car price prediction with feature engineering"
+    }
+  },
+  "featured": [
+    {
+      "repo": "supportdesk",
+      "title": "SupportDesk",
+      "subtitle": "Helpdesk ticketing system",
+      "tag": "FEATURED · DJANGO",
+      "points": [
+        "3 user roles with JWT auth + RBAC",
+        "Signals → Celery → Redis email alerts",
+        "ORM dashboard stats · {tests} API tests in CI"
+      ],
+      "stack": [
+        "Django",
+        "Django REST Framework",
+        "PostgreSQL",
+        "Celery",
+        "Redis",
+        "React.js",
+        "Docker"
+      ]
+    },
+    {
+      "repo": "Celebal_Technologies",
+      "title": "Fraud Risk Pipeline",
+      "subtitle": "Real-time credit card scoring",
+      "tag": "FEATURED · DATA ENG",
+      "points": [
+        "Structured Streaming ingestion",
+        "Dedup, velocity & location-hop checks",
+        "Bronze → Silver → Gold on Delta Lake"
+      ],
+      "stack": [
+        "PySpark",
+        "Databricks",
+        "Delta Lake",
+        "Python",
+        "SQL"
+      ]
+    }
+  ],
+  "extra_projects": [
+    {
+      "title": "E-Commerce Website",
+      "description": "Search, cart, auth, orders and Razorpay payments",
+      "stack": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Razorpay"
+      ],
+      "match": [
+        "ecommerce",
+        "e-commerce",
+        "shop",
+        "store"
+      ]
+    },
+    {
+      "title": "Word to PDF Converter",
+      "description": "Upload Word, download a clean PDF, with validation",
+      "stack": [
+        "Python",
+        "Flask",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "match": [
+        "word",
+        "pdf",
+        "docx"
+      ]
+    }
+  ],
+  "id_card": {
+    "name": "ADITYA KUMAR SINGH",
+    "role_line": "FULL-STACK · DATA · DEVOPS",
+    "class": "2027",
+    "base": "DEHRADUN",
+    "univ": "DIT",
+    "cgpa": "8.05",
+    "cgpa_scale": "/10",
+    "cgpa_sub": "B.Tech CSE · DIT University",
+    "roles": 4,
+    "roles_sub": "Internships + startup · 2025–26",
+    "highlight": "★  WINNER · IMS BUSINESS HACKATHON 2025 (ECOLOOP)"
+  },
+  "stack": {
+    "highlight": [
+      "Django",
+      "Django REST Framework",
+      "Supabase",
+      "PostgreSQL",
+      "Cyber Security Fundamentals"
+    ],
+    "groups": [
+      {
+        "label": "LANGUAGES",
+        "keys": [
+          "lang"
+        ],
+        "items": [
+          "Python",
+          "Java",
+          "JavaScript",
+          "SQL"
+        ]
+      },
+      {
+        "label": "DJANGO & BACKEND",
+        "keys": [
+          "backend"
+        ],
+        "items": [
+          "Django",
+          "Django REST Framework",
+          "Django ORM",
+          "Simple JWT",
+          "django-filter",
+          "Django Signals",
+          "Node.js",
+          "Express.js",
+          "Flask",
+          "REST APIs"
+        ]
+      },
+      {
+        "label": "FRONTEND",
+        "keys": [
+          "frontend"
+        ],
+        "items": [
+          "React.js",
+          "Vite",
+          "Axios",
+          "React Router",
+          "HTML5",
+          "CSS3"
+        ]
+      },
+      {
+        "label": "DATABASES",
+        "keys": [
+          "db"
+        ],
+        "items": [
+          "PostgreSQL",
+          "Supabase",
+          "MySQL",
+          "SQL Server",
+          "MongoDB",
+          "Redis"
+        ]
+      },
+      {
+        "label": "DATA & AI",
+        "keys": [
+          "data"
+        ],
+        "items": [
+          "Pandas",
+          "NumPy",
+          "scikit-learn",
+          "PySpark",
+          "Databricks",
+          "Delta Lake",
+          "Streamlit",
+          "ETL"
+        ]
+      },
+      {
+        "label": "ASYNC · DEVOPS · CLOUD",
+        "keys": [
+          "devops"
+        ],
+        "items": [
+          "Celery",
+          "Docker Compose",
+          "GitHub Actions CI",
+          "Render",
+          "AWS",
+          "GCP",
+          "Linux",
+          "Git"
+        ]
+      },
+      {
+        "label": "SECURITY · TESTING · PLATFORMS",
+        "keys": [
+          "quality"
+        ],
+        "items": [
+          "Cyber Security Fundamentals",
+          "JWT & RBAC",
+          "SSO & MFA",
+          "APITestCase",
+          "Postman",
+          "Salesforce Apex & Flows",
+          "Razorpay"
+        ]
+      }
+    ],
+    "orbits": [
+      [
+        "python",
+        "django",
+        "postgresql",
+        "supabase"
+      ],
+      [
+        "react",
+        "nodedotjs",
+        "javascript",
+        "redis",
+        "celery",
+        "mongodb"
+      ],
+      [
+        "docker",
+        "githubactions",
+        "git",
+        "linux",
+        "googlecloud",
+        "apachespark",
+        "databricks",
+        "scikitlearn"
+      ]
+    ]
+  }
+}

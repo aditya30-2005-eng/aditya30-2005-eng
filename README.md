@@ -2,13 +2,14 @@
 
 ![Aditya Kumar Singh — Full-Stack, Python/Django and Data Engineering developer from Dehradun, India](./hero.svg?v=2)
 
-![About — what I build: backend & APIs, data engineering, AI/ML, DevOps & cloud, cyber security fundamentals](./about-life.svg?v=2)
+![About — what I build: backend & APIs, data engineering, AI/ML, DevOps & cloud, cyber security fundamentals](./about-life.svg?v=4)
 
 ![Tech stack — Python, Django, DRF, React, Node.js, PostgreSQL, Supabase, Redis, Celery, Docker, GitHub Actions and more](./stack.svg?v=2)
 
-![Developer ID card with verified stats and all six projects](./id-dashboard.svg?v=3)
+![Developer ID card with verified stats and project list](./id-dashboard.svg?v=4)
 
-![Projects — SupportDesk, Fraud Risk Pipeline, E-Commerce Website, Finance Tracker, Car Price Predictor, Word to PDF Converter](./projects.svg?v=1)
+<!-- PROFILE-SYNC:PROJECTS:START -->
+![Projects — SupportDesk, Fraud Risk Pipeline, E-Commerce Website, Finance Tracker, Car Price Predictor, Word to PDF Converter](./projects.svg?v=2)
 
 <sub>Tap to open a project</sub>
 
@@ -20,10 +21,17 @@
 <b>E-Commerce Website</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng?tab=repositories">&lt;/&gt; Repos</a></kbd><br>
 <b>Word to PDF Converter</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng?tab=repositories">&lt;/&gt; Repos</a></kbd>
 </p>
+<!-- PROFILE-SYNC:PROJECTS:END -->
 
 <br><br>
 
 ![Experience — Data Engineering Intern at Celebal Technologies, Full Stack Developer at Cowoko, Salesforce Developer Intern, Full Stack Intern at CDIT Infotech](./experience.svg?v=1)
+
+<br>
+
+<!-- PROFILE-SYNC:START -->
+<!-- Filled automatically by profile_sync.py; edits inside these markers are overwritten. -->
+<!-- PROFILE-SYNC:END -->
 
 <br>
 
