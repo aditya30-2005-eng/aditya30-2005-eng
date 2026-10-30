@@ -1,12 +1,12 @@
 <div align="center">
 
-![Aditya Kumar Singh — Full-Stack, Python/Django and Data Engineering developer from Dehradun, India](./assets/hero.svg?v=1)
+![Aditya Kumar Singh — Full-Stack, Python/Django and Data Engineering developer from Dehradun, India](./hero.svg?v=2)
 
-![About — what I build: backend & APIs, data engineering, AI/ML, DevOps & cloud, cyber security fundamentals](./assets/about-life.svg?v=1)
+![About — what I build: backend & APIs, data engineering, AI/ML, DevOps & cloud, cyber security fundamentals](./about-life.svg?v=2)
 
-![Tech stack — Python, Django, DRF, React, Node.js, PostgreSQL, Supabase, Redis, Celery, Docker, GitHub Actions and more](./assets/stack.svg?v=1)
+![Tech stack — Python, Django, DRF, React, Node.js, PostgreSQL, Supabase, Redis, Celery, Docker, GitHub Actions and more](./stack.svg?v=2)
 
-![Developer ID card with verified stats and featured repositories](./assets/id-dashboard.svg?v=1)
+![Developer ID card with verified stats and featured repositories](./id-dashboard.svg?v=2)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![Let's connect — LinkedIn, GitHub, portfolio and email](./assets/connect.svg?v=1)
+![Let's connect — LinkedIn, GitHub, portfolio and email](./connect.svg?v=2)
 
 **[LinkedIn](https://www.linkedin.com/in/aditya-singh-rajput2005)** &nbsp;·&nbsp; **[GitHub](https://github.com/aditya30-2005-eng)** &nbsp;·&nbsp; **[Portfolio](https://adityadev300805.netlify.app/)** &nbsp;·&nbsp; **[Email](mailto:adityakumarsingh.dev2005@gmail.com)**
 
