@@ -15,7 +15,8 @@
   "repo_overrides": {
     "supportdesk": {
       "title": "SupportDesk",
-      "short": "Helpdesk ticketing with roles, async alerts and CI tests"
+      "short": "Helpdesk ticketing with roles, async alerts and CI tests",
+      "homepage": "https://supportdesk-web-aditya.onrender.com"
     },
     "Celebal_Technologies": {
       "title": "Celebal Data Engineering",
@@ -23,10 +24,24 @@
     },
     "finance-dashboard": {
       "title": "Finance Tracker",
-      "short": "Income and expense tracking with Firebase auth and live data sync"
+      "short": "Income and expense tracking with Firebase auth and live data sync",
+      "homepage": "https://nitya-finance-dashboard.netlify.app/"
     },
     "car-price-predictor": {
-      "short": "Used-car price prediction with feature engineering"
+      "short": "Used-car price prediction with feature engineering",
+      "homepage": "https://carvalue-aditya.streamlit.app/"
+    },
+    "Ecommerce_ShopSphere": {
+      "title": "ShopSphere E-Commerce",
+      "short": "MERN store with JWT auth, cart, checkout and Razorpay payments"
+    },
+    "Word-To-Pdf": {
+      "title": "Word to PDF Converter",
+      "short": "Converts .doc/.docx files to PDF with Express and LibreOffice"
+    },
+    "Salesforce": {
+      "title": "HandsMen Threads CRM",
+      "short": "Salesforce CRM for orders, inventory and loyalty, built in my internship"
     }
   },
   "featured": [
@@ -69,41 +84,7 @@
       ]
     }
   ],
-  "extra_projects": [
-    {
-      "title": "E-Commerce Website",
-      "description": "Search, cart, auth, orders and Razorpay payments",
-      "stack": [
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Razorpay"
-      ],
-      "match": [
-        "ecommerce",
-        "e-commerce",
-        "shop",
-        "store"
-      ]
-    },
-    {
-      "title": "Word to PDF Converter",
-      "description": "Upload Word, download a clean PDF, with validation",
-      "stack": [
-        "Python",
-        "Flask",
-        "HTML5",
-        "CSS3",
-        "JavaScript"
-      ],
-      "match": [
-        "word",
-        "pdf",
-        "docx"
-      ]
-    }
-  ],
+  "extra_projects": [],
   "id_card": {
     "name": "ADITYA KUMAR SINGH",
     "role_line": "FULL-STACK · DATA · DEVOPS",
