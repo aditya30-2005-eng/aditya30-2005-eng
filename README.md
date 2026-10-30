@@ -10,20 +10,16 @@
 
 ![Projects — SupportDesk, Fraud Risk Pipeline, E-Commerce Website, Finance Tracker, Car Price Predictor, Word to PDF Converter](./projects.svg?v=1)
 
-<sub>Tap a button to open the project</sub>
+<sub>Tap to open a project</sub>
 
-<a href="https://supportdesk-web-aditya.onrender.com"><img src="https://img.shields.io/badge/SupportDesk-Live_Demo-247bff?style=for-the-badge&labelColor=0c1428&logo=render&logoColor=white" alt="SupportDesk live demo"></a>
-<a href="https://github.com/aditya30-2005-eng/supportdesk"><img src="https://img.shields.io/badge/SupportDesk-Code-ff354f?style=for-the-badge&labelColor=0c1428&logo=github&logoColor=white" alt="SupportDesk code"></a>
-<a href="https://github.com/aditya30-2005-eng/Celebal_Technologies"><img src="https://img.shields.io/badge/Fraud_Risk_Pipeline-Code-ff354f?style=for-the-badge&labelColor=0c1428&logo=github&logoColor=white" alt="Fraud Risk Pipeline code"></a>
-
-<a href="https://nitya-finance-dashboard.netlify.app/"><img src="https://img.shields.io/badge/Finance_Tracker-Live_Demo-247bff?style=for-the-badge&labelColor=0c1428&logo=netlify&logoColor=white" alt="Finance Tracker live demo"></a>
-<a href="https://github.com/aditya30-2005-eng/finance-dashboard"><img src="https://img.shields.io/badge/Finance_Tracker-Code-ff354f?style=for-the-badge&labelColor=0c1428&logo=github&logoColor=white" alt="Finance Tracker code"></a>
-
-<a href="https://carvalue-aditya.streamlit.app/"><img src="https://img.shields.io/badge/Car_Price_Predictor-Live_Demo-247bff?style=for-the-badge&labelColor=0c1428&logo=streamlit&logoColor=white" alt="Car Price Predictor live demo"></a>
-<a href="https://github.com/aditya30-2005-eng/car-price-predictor"><img src="https://img.shields.io/badge/Car_Price_Predictor-Code-ff354f?style=for-the-badge&labelColor=0c1428&logo=github&logoColor=white" alt="Car Price Predictor code"></a>
-
-<a href="https://github.com/aditya30-2005-eng?tab=repositories"><img src="https://img.shields.io/badge/E--Commerce_Website-Repos-ff354f?style=for-the-badge&labelColor=0c1428&logo=github&logoColor=white" alt="E-Commerce Website on GitHub"></a>
-<a href="https://github.com/aditya30-2005-eng?tab=repositories"><img src="https://img.shields.io/badge/Word_to_PDF_Converter-Repos-ff354f?style=for-the-badge&labelColor=0c1428&logo=github&logoColor=white" alt="Word to PDF Converter on GitHub"></a>
+<p>
+<b>SupportDesk</b> &nbsp; <kbd><a href="https://supportdesk-web-aditya.onrender.com">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/supportdesk">&lt;/&gt; Code</a></kbd><br>
+<b>Fraud Risk Pipeline</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng/Celebal_Technologies">&lt;/&gt; Code</a></kbd><br>
+<b>Finance Tracker</b> &nbsp; <kbd><a href="https://nitya-finance-dashboard.netlify.app/">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/finance-dashboard">&lt;/&gt; Code</a></kbd><br>
+<b>Car Price Predictor</b> &nbsp; <kbd><a href="https://carvalue-aditya.streamlit.app/">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/car-price-predictor">&lt;/&gt; Code</a></kbd><br>
+<b>E-Commerce Website</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng?tab=repositories">&lt;/&gt; Repos</a></kbd><br>
+<b>Word to PDF Converter</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng?tab=repositories">&lt;/&gt; Repos</a></kbd>
+</p>
 
 <br><br>
 
