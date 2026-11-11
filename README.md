@@ -6,16 +6,17 @@
 
 ![Tech stack — Python, Django, DRF, React, Node.js, PostgreSQL, Supabase, Redis, Celery, Docker, GitHub Actions and more](./stack.svg?v=5c998e51)
 
-![Developer ID card with verified stats and project list](./id-dashboard.svg?v=6083bfed)
+![Developer ID card with verified stats and project list](./id-dashboard.svg?v=0f0de7de)
 
 <!-- PROFILE-SYNC:PROJECTS:START -->
-![Projects: SupportDesk, Fraud Risk Pipeline, ShopSphere E-Commerce, Finance Tracker, Word to PDF Converter, Car Price Predictor, HandsMen Threads CRM](./projects.svg?v=1f7ca720)
+![Projects: SupportDesk, Fraud Risk Pipeline, It Helpdesk Ticket System, ShopSphere E-Commerce, Finance Tracker, Word to PDF Converter, Car Price Predictor, HandsMen Threads CRM](./projects.svg?v=eb15f01f)
 
 <sub>Tap to open a project</sub>
 
 <p>
 <b>SupportDesk</b> &nbsp; <kbd><a href="https://supportdesk-web-aditya.onrender.com">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/supportdesk">&lt;/&gt; Code</a></kbd><br>
 <b>Fraud Risk Pipeline</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng/Celebal_Technologies">&lt;/&gt; Code</a></kbd><br>
+<b>It Helpdesk Ticket System</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng/it-helpdesk-ticket-system">&lt;/&gt; Code</a></kbd><br>
 <b>ShopSphere E-Commerce</b> &nbsp; <kbd><a href="https://ecommerce-shop-sphere-xi.vercel.app">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/Ecommerce_ShopSphere">&lt;/&gt; Code</a></kbd><br>
 <b>Finance Tracker</b> &nbsp; <kbd><a href="https://nitya-finance-dashboard.netlify.app/">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/finance-dashboard">&lt;/&gt; Code</a></kbd><br>
 <b>Word to PDF Converter</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng/Word-To-Pdf">&lt;/&gt; Code</a></kbd><br>
@@ -32,20 +33,20 @@
 
 <!-- PROFILE-SYNC:START -->
 
-![Latest on GitHub, auto-synced: SupportDesk, ShopSphere E-Commerce, Celebal Data Engineering, Finance Tracker](./latest-repos.svg?v=a839a76c)
+![Latest on GitHub, auto-synced: It Helpdesk Ticket System, SupportDesk, ShopSphere E-Commerce, Celebal Data Engineering](./latest-repos.svg?v=f7a9f52a)
 
 <sub>Updated automatically from my repositories · tap to open</sub>
 
 <p>
+<b>It Helpdesk Ticket System</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng/it-helpdesk-ticket-system">&lt;/&gt; Code</a></kbd><br>
 <b>SupportDesk</b> &nbsp; <kbd><a href="https://supportdesk-web-aditya.onrender.com">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/supportdesk">&lt;/&gt; Code</a></kbd><br>
 <b>ShopSphere E-Commerce</b> &nbsp; <kbd><a href="https://ecommerce-shop-sphere-xi.vercel.app">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/Ecommerce_ShopSphere">&lt;/&gt; Code</a></kbd><br>
-<b>Celebal Data Engineering</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng/Celebal_Technologies">&lt;/&gt; Code</a></kbd><br>
-<b>Finance Tracker</b> &nbsp; <kbd><a href="https://nitya-finance-dashboard.netlify.app/">▶ Live Demo</a></kbd> <kbd><a href="https://github.com/aditya30-2005-eng/finance-dashboard">&lt;/&gt; Code</a></kbd>
+<b>Celebal Data Engineering</b> &nbsp; <kbd><a href="https://github.com/aditya30-2005-eng/Celebal_Technologies">&lt;/&gt; Code</a></kbd>
 </p>
 
 <br>
 
-![Commit activity: Celebal Data Engineering 75 commits, SupportDesk 14 commits, Finance Tracker 12 commits, Word to PDF Converter 6 commits, HandsMen Threads CRM 5 commits, ShopSphere E-Commerce 3 commits, Car Price Predictor 1 commits](./commit-activity.svg?v=12233513)
+![Commit activity: Celebal Data Engineering 75 commits, SupportDesk 14 commits, Finance Tracker 12 commits, Word to PDF Converter 6 commits, HandsMen Threads CRM 5 commits, ShopSphere E-Commerce 3 commits, It Helpdesk Ticket System 1 commits, Car Price Predictor 1 commits](./commit-activity.svg?v=0f0f3a17)
 
 <!-- PROFILE-SYNC:END -->
 
