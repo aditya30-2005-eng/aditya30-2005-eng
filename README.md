@@ -33,7 +33,7 @@
 
 <!-- PROFILE-SYNC:START -->
 
-![Latest on GitHub, auto-synced: It Helpdesk Ticket System, SupportDesk, ShopSphere E-Commerce, Celebal Data Engineering](./latest-repos.svg?v=f7a9f52a)
+![Latest on GitHub, auto-synced: It Helpdesk Ticket System, SupportDesk, ShopSphere E-Commerce, Celebal Data Engineering](./latest-repos.svg?v=b7ab91bf)
 
 <sub>Updated automatically from my repositories · tap to open</sub>
 
@@ -46,7 +46,7 @@
 
 <br>
 
-![Commit activity: Celebal Data Engineering 75 commits, SupportDesk 14 commits, Finance Tracker 12 commits, Word to PDF Converter 6 commits, HandsMen Threads CRM 5 commits, ShopSphere E-Commerce 3 commits, It Helpdesk Ticket System 1 commits, Car Price Predictor 1 commits](./commit-activity.svg?v=0f0f3a17)
+![Commit activity: Celebal Data Engineering 75 commits, SupportDesk 14 commits, Finance Tracker 12 commits, Word to PDF Converter 6 commits, HandsMen Threads CRM 5 commits, ShopSphere E-Commerce 3 commits, It Helpdesk Ticket System 1 commits, Car Price Predictor 1 commits](./commit-activity.svg?v=5e528334)
 
 <!-- PROFILE-SYNC:END -->
 
